@@ -1,6 +1,3 @@
-# Asssment-Speer-Backend
-Speer Asssment-> Backend Engineer
-
 # Notes API
 
 The Notes API is a Node.js application that provides CRUD operations for managing notes. Users can create, read, update, and delete their notes, as well as share notes with other users.
